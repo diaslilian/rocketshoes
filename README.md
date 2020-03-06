@@ -62,6 +62,8 @@ Visualizar no navegador
 
 > http://localhost:3000/
 
+
+<hr>
 Created by Lilian Dias :wave: [Hi-5!](https://www.linkedin.com/in/dias-lilian/)
 
-~Aplicação desenvolvida como desafio do Bootcamp da Rocketseat.~
+
